@@ -92,7 +92,7 @@
 			"territoryCode":"",
 			"supplierPack":"",
 			"supplierItemColor":"",
-			"extend1": "",
+			"extend1": "",//目的港口
 			"extend2": "",
 			"extend3": "",
 			"extend4": "",
